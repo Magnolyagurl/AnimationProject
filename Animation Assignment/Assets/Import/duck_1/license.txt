@@ -1,0 +1,11 @@
+Model Information:
+* title:	duck_1
+* source:	https://sketchfab.com/3d-models/duck-1-bcbcd708223745e3b4eb012efcb63302
+* author:	NikosTsoukatos (https://sketchfab.com/NikosTsoukatos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "duck_1" (https://sketchfab.com/3d-models/duck-1-bcbcd708223745e3b4eb012efcb63302) by NikosTsoukatos (https://sketchfab.com/NikosTsoukatos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
