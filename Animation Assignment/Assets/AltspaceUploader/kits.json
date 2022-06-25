@@ -1,0 +1,25 @@
+{
+    "uploadEntries": [
+        {
+            "AltspaceId": "2032321741853818904",
+            "Name": "Duck Animation",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2032321741853818904_duck_animation/cityscene.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/2032321741853818904_duck_animation/Parent.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
+}
